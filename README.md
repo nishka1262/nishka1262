@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there
 
-<!--
-**nishka1262/nishka1262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Nishka Priya, an ECE student and currently working as a Product Manager on a project called Cryptixia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Learning and practicing Data Structures and Algorithms (DSA)
+- Proficient in C, C++, and Python (basics)
+- Exploring frontend development with HTML, CSS, and JavaScript
+- Familiar with Whimsical for planning and design
+- Interested in improving my skills in GitHub and team collaboration
+
+---
+
+## Current Work
+
+- Product Manager for Cryptixia
+- Learning Git and version control basics
+- Building projects to strengthen my coding skills
+
+---
+
+## Contact
+
+- Email: nishkapriya0@gmail.com
+- LinkedIn: www.linkedin.com/in/nishka-priya-3976382a6
