@@ -8,7 +8,6 @@ I am Nishka Priya, an ECE student and currently working as a Product Manager on 
 
 - Learning and practicing Data Structures and Algorithms (DSA)
 - Proficient in C, C++, and Python (basics)
-- Exploring frontend development with HTML, CSS, and JavaScript
 - Familiar with Whimsical for planning and design
 - Interested in improving my skills in GitHub and team collaboration
 
